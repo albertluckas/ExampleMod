@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Obsidian",
+	"description": "A black and reflective volcanic rock",
+	"cost": 2.5,
+	"color": "313131"
+}
