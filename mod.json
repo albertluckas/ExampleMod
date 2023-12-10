@@ -1,4 +1,6 @@
 {
   "name": "Example Mod",
-  "minGameVersion":136
+  "author": "Anuke",
+  "description": "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]",
+  "minGameersion":136
 }
