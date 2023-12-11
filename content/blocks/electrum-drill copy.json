@@ -3,21 +3,10 @@
 	"description": "A very strange drill.",
 	"type": "BurstDrill",
 	"size": 2,
-	"tier": 2,
+	"tier": 1,
 	"drillTime": 250,
-	"consumes": {
-		"power": 3.0,
-		"liquid": {
-			"liquid": "molten-silver", 
-			"amount": 0.1,
-			"booster": true
-		}
-	},
 	"requirements": [
-		{ "item": "electrum", "amount": 80 },
-		{ "item": "silicon", "amount": 40 },
-		{ "item": "graphite", "amount": 20 }
+		{ "item": "electrum", "amount": 80 }
 	],
-	"category": "production",
-	"research": "laser-drill"
+	"category": "production"
 }
