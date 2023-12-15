@@ -1,7 +1,7 @@
 {
 	"name": "sifter",
 	"description": "A very strange drill.",
-	"type": "beamDrill",
+	"type": "drill",
 	"size": 2,
 	"tier": 1,
 	"drillTime": 250,
