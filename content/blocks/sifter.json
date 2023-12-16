@@ -6,7 +6,7 @@
 	"tier": 1,
 	"drillTime": 250,
 	"requirements": [
-		{ "item": "electrum", "amount": 80 }
+		{ "item": "copper", "amount": 80 }
 	],
 	"category": "production"
 }
