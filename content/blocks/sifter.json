@@ -1,6 +1,6 @@
 {
 	"name": "sifter",
-	"description": "A very strange drill.",
+	"description": "Finds rocks in loose sand.",
 	"type": "drill",
 	"size": 2,
 	"tier": 1,
